@@ -1,7 +1,14 @@
 本项目借鉴自以下项目，增加了一点自己的内容
 1、增加了自瞄区域绘制
+
 2、增加了敌人识别绘制
+
 3、增加了锁定目标提示
+
+使用效果如下：
+
+![a0a71ded14330224c74438dc76e83a4](https://github.com/dclemon/APEX_YOLOV5_aimbot/assets/63597032/2ce14534-da21-4333-b1ca-e1e809c21da5)
+
 以下是原项目的介绍：
 # APEX-yolov5-aim-assit
 1.下載上列資源
